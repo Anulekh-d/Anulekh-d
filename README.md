@@ -1,8 +1,8 @@
-# Hello, I'm [Your Name] - Power BI Enthusiast! 👋
+# Hello, I'm Anulekh-d - Power BI Enthusiast! 👋
 
 ## About Me
 
-I'm a passionate Power BI professional based in [Your Location]. With a keen interest in data visualization and business intelligence, I strive to turn raw data into meaningful insights.
+I'm a passionate Power BI professional based in India. With a keen interest in data visualization and business intelligence, I strive to turn raw data into meaningful insights.
 
 - 🔭 I’m currently working on creating compelling dashboards for [Your Company/Projects].
 - 🌱 I’m always learning and exploring new features and best practices in Power BI.
