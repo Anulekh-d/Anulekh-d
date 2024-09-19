@@ -8,7 +8,7 @@ I'm a passionate Power BI professional based in India. With a keen interest in d
 - 🌱 I’m always learning and exploring new features and best practices in Power BI.
 - 👯 I’m open to collaborating on Power BI projects and discussions around data analytics.
 - 💬 Let's chat about Power BI, data storytelling, and anything related to business intelligence.
-- 📫 You can reach me at [your.email@example.com] or connect with me on [LinkedIn](your-linkedin-profile).
+- 📫 You can reach me at [anu170195@gmail.com] or connect with me on [https://www.linkedin.com/in/anulekh-dawre-843353248/].
 
 ## My Power BI Journey
 
