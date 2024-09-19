@@ -38,9 +38,8 @@ Here are some of the Power BI projects I've worked on:
 
 ## Let's Connect
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Blog](your-website)
+- [https://www.linkedin.com/in/anulekh-dawre-843353248/]
+
 
 Feel free to explore my Power BI projects and connect with me. I'm always excited to discuss data, analytics, and Power BI! 😊
 
